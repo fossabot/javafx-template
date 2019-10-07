@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+# delete repository files
+rm -rf .git
+rm README.md
+rm LICENSE
+
 # Get variables
 echo "Java package?"
 read JAVA_PACKAGE
