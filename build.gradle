@@ -33,12 +33,12 @@ dependencies {
     compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.12.1'
 
     // JUnit 5
-    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.5.2'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
 
     // TestFx
     testCompile "org.testfx:testfx-core:4.0.16-alpha"
-    testCompile 'org.junit.jupiter:junit-jupiter-api:5.5.1'
+    testCompile 'org.junit.jupiter:junit-jupiter-api:5.5.2'
     testCompile "org.testfx:testfx-junit5:4.0.16-alpha"
     testCompile group: 'org.hamcrest', name: 'hamcrest', version: '2.1'
 
