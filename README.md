@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # JavaFX Application Project Template
 A customized project template to bootstrap a JavaFx UI applicatoin for Intellij IDEA. 
 
